@@ -8,3 +8,4 @@
 1. [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#machine-learning)
 機械学習系youtuber
 
+1. [機械学習の Python との出会い](https://github.com/tkamishima/mlmpy)
