@@ -7,6 +7,8 @@
 1. [機械学習の Python との出会い](https://github.com/tkamishima/mlmpy)
 
 ## English
+1. [pypi](https://pypi.org/)
+
 1. [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#machine-learning)
 ML youtuber
 
