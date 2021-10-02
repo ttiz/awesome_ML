@@ -6,6 +6,8 @@
 
 1. [機械学習の Python との出会い](https://github.com/tkamishima/mlmpy)
 
+1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
+
 ## English
 1. [pypi](https://pypi.org/)
 
