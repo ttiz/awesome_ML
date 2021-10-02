@@ -17,3 +17,5 @@
 ML youtuber
 
 1. [scikit-learn](https://scikit-learn.org/stable/index.html)
+
+1. [Pytorch](https://pytorch.org/)
