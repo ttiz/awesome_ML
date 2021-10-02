@@ -8,6 +8,8 @@
 
 1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
 
+1. [Pytorch 日本語ドキュメント](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
+
 ## English
 1. [pypi](https://pypi.org/)
 
