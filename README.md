@@ -9,3 +9,5 @@
 ## English
 1. [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#machine-learning)
 ML youtuber
+
+1. [scikit-learn](https://scikit-learn.org/stable/index.html)
