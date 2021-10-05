@@ -1,5 +1,6 @@
 # awesome_ML
 秀逸な機械学習の情報リンク集
+順番は適当です。
 
 ## 日本語
 1. [高等学校における「情報II」のためのデータサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)
