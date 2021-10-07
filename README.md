@@ -1,14 +1,14 @@
 # awesome_ML
 秀逸な機械学習の情報リンク集  
-順番は適当です。
+勉強しやすそうな順番で並べたつもりです。
 
 ## 日本語
 1. [高等学校における「情報II」のためのデータサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)
 
+1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
+
 1. [機械学習の Python との出会い](https://github.com/tkamishima/mlmpy)
 - [numpyについて](https://www.kamishima.net/mlmpyja/nbayes1/ndarray.html)
-
-1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
 
 1. [データサイエンス100本ノック（構造化データ加工編）](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 
