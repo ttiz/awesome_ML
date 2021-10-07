@@ -6,6 +6,7 @@
 1. [高等学校における「情報II」のためのデータサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)
 
 1. [機械学習の Python との出会い](https://github.com/tkamishima/mlmpy)
+- [numpyについて](https://www.kamishima.net/mlmpyja/nbayes1/ndarray.html)
 
 1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
 
