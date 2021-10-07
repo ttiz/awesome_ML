@@ -11,6 +11,8 @@
 
 1. [データサイエンス100本ノック（構造化データ加工編）](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 
+1. [Keras](https://keras.io/ja/)
+
 1. [Pytorch 日本語ドキュメント](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
 
 ## English
