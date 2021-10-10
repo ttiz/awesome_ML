@@ -27,6 +27,8 @@
 
 1. [scipy](https://www.scipy.org/)
 
+1. [dmol.pub](https://dmol.pub/intro.html)
+
 1. [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#machine-learning)
 ML youtuber
 
