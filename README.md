@@ -25,6 +25,8 @@
 
 1. [pandas](https://pandas.pydata.org/)
 
+1. [statsmodels](https://www.statsmodels.org/stable/index.html)
+
 1. [scipy](https://www.scipy.org/)
 
 1. [dmol.pub](https://dmol.pub/intro.html)
