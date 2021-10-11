@@ -4,6 +4,7 @@
 
 ## 日本語
 1. [高等学校における「情報II」のためのデータサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)
+- https://github.com/ttiz/for_teacher_ML
 
 1. [Python3.8 公式ドキュメント](https://docs.python.org/ja/3.8/)
 
